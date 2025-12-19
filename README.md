@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./images/banner.png" alt="Portfolio Banner" width="60%"/>
+  <img src="./images/banner.png" alt="Portfolio Banner" width="90%" height="40%"/>
 </p>
 
 <!-- Introduction -->
